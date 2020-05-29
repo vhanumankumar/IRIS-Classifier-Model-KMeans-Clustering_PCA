@@ -1,3 +1,3 @@
-# Iris ML Model using 
+# Iris data Model using 
 ## KMeans-Clustering_
-## PCA-Dimentionality Reduction
+## PCA(Principal Componenet Analysis)-Dimentionality Reduction
